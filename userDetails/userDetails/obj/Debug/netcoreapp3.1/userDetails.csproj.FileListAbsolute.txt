@@ -1,0 +1,13 @@
+D:\Test_Codes\userDetails\userDetails\bin\Debug\netcoreapp3.1\userDetails.exe
+D:\Test_Codes\userDetails\userDetails\bin\Debug\netcoreapp3.1\userDetails.deps.json
+D:\Test_Codes\userDetails\userDetails\bin\Debug\netcoreapp3.1\userDetails.runtimeconfig.json
+D:\Test_Codes\userDetails\userDetails\bin\Debug\netcoreapp3.1\userDetails.runtimeconfig.dev.json
+D:\Test_Codes\userDetails\userDetails\bin\Debug\netcoreapp3.1\userDetails.dll
+D:\Test_Codes\userDetails\userDetails\bin\Debug\netcoreapp3.1\userDetails.pdb
+D:\Test_Codes\userDetails\userDetails\obj\Debug\netcoreapp3.1\userDetails.csprojAssemblyReference.cache
+D:\Test_Codes\userDetails\userDetails\obj\Debug\netcoreapp3.1\userDetails.csproj.CoreCompileInputs.cache
+D:\Test_Codes\userDetails\userDetails\obj\Debug\netcoreapp3.1\userDetails.AssemblyInfoInputs.cache
+D:\Test_Codes\userDetails\userDetails\obj\Debug\netcoreapp3.1\userDetails.AssemblyInfo.cs
+D:\Test_Codes\userDetails\userDetails\obj\Debug\netcoreapp3.1\userDetails.dll
+D:\Test_Codes\userDetails\userDetails\obj\Debug\netcoreapp3.1\userDetails.pdb
+D:\Test_Codes\userDetails\userDetails\obj\Debug\netcoreapp3.1\userDetails.genruntimeconfig.cache
